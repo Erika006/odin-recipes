@@ -1,0 +1,27 @@
+/** * {
+    outline: 2px solid red;
+} **/
+
+body {
+    font-family: "Garamond";
+}
+
+.introduction {
+    background: #fff;
+}
+
+.title {
+    background: bisque;
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    background: bisque;
+}

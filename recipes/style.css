@@ -1,0 +1,40 @@
+/** * {
+    outline: 2px solid red;
+} **/
+
+.title {
+    text-align: center;
+    background: rgba(250, 235, 215, 0.726);
+}
+
+.image {
+    text-align: center;
+}
+
+.description {
+    background: rgba(250, 235, 215, 0.726);
+}
+
+.description h2 {
+    border: 2px solid brown;
+    text-align: center;
+}
+
+.description .content {
+    font-size: 18px;
+    padding: 25px;
+}
+
+.ingredients-steps h2 {
+    margin: 0px auto;
+    border: 2px solid brown;
+    text-align: center;
+    width: 350px;
+    background: rgba(250, 235, 215, 0.726);
+}
+
+.ingredients-steps .list {
+    margin: 0px auto;
+    background: rgba(194, 170, 139, 0.726);
+    width: 310px;
+}
